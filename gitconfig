@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = isabella.hoesch@outlook.com
+	name = Isabella Hoesch
